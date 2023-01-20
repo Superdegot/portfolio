@@ -30,6 +30,7 @@ function App() {
                 href="https://mellow-biscotti-bc44e5.netlify.app/"
                 class="primary-link project-link"
                 target="_blank"
+                rel="noreferrer"
               >
                 Launch Dictionary App
               </a>
@@ -45,6 +46,7 @@ function App() {
                   href="https://radiant-taiyaki-bd9b03.netlify.app/"
                   class="primary-link project-link"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   Launch Weather App
                 </a>
@@ -76,6 +78,7 @@ function App() {
                 href="https://resilient-jalebi-9651d2.netlify.app/"
                 className="primary-link project-link"
                 target="_blank"
+                rel="noreferrer"
               >
                 Launch Swimming Teacher App
               </a>
